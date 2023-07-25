@@ -23,8 +23,8 @@
 // @sandbox      JavaScript
 // @license      GPL-3.0 License
 // @run-at       document-end
-// @supportURL   https://github.com/rexhang/githubplus
-// @homepageURL  https://github.com/rexhang/githubplus
+// @supportURL   https://github.com/rexhang/GitHubPlus
+// @homepageURL  https://github.com/rexhang/GitHubPlus
 // ==/UserScript==
 
 (function() {
